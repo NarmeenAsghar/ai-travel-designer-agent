@@ -32,12 +32,7 @@ An intelligent travel planning system that coordinates between specialized agent
    ```
 
 4. **Configure environment variables**:
-   - Create `.env` file:
-     ```ini
-     OPENAI_API_KEY=your_openai_api_key_here
-     FLIGHT_API_KEY=mock
-     HOTEL_API_KEY=mock
-     ```
+   - Create `.env` file
 
 ## Project Structure 📂
 
